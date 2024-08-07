@@ -1,8 +1,4 @@
-/***
- * @brief: cleaning robot path planning
- * @author: Wang
- * @date: 20170702
-***/
+
 
 #ifndef CLEANINGPATHPLANNING_H
 #define CLEANINGPATHPLANNING_H
